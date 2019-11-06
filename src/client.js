@@ -13,7 +13,7 @@ const gee = async function() {
   return 'hello'
 }
 
-gee()
+console.log(gee())
 
 import './styles.scss'
 const App = () => {
